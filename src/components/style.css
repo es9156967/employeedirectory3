@@ -1,0 +1,64 @@
+body {
+    background-image: url("light-wave-border-background_53876-78863.jpg");
+    background-position: center top ;
+    height: 100%;
+    font-family: 'Poppins', sans-serif!important;
+}
+
+.headerStyle {
+    background-color: rgba(33, 32, 32, 0.986);
+    color: rgb(244, 235, 240);
+    padding: 0!important;
+    text-align: center!important;
+}
+
+.center {
+    text-align: center!important;
+    margin: auto!important;
+    padding: 10px;
+}
+
+thead {
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+tr {
+    font-weight: bold;
+    text-align: center;
+}
+
+.table td {
+    border-top: black!important;
+}
+
+img {
+    border-radius: 50%;
+}
+
+input {
+    width: 100px!important;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    margin: auto!important;
+    /* padding: 0 200px 0 200px !important; */
+}
+
+button {
+    margin: 10px !important;
+}
+
+.sortBtn {
+    border-radius: 20%!important;
+    border-color: whitesmoke;
+    margin: 0;
+}
+
